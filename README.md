@@ -1,5 +1,5 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![License](https://github.com/qxrmy/todo-cli/blob/main/LICENSE)
+![License](https://img.shields.io/github/license/qxrmy/todo-cli)
 
 # Todo CLI
 
